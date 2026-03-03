@@ -4,7 +4,7 @@
 
     Uma televisão possui as seguintes características:
     - tamanho de tela (em polegadas);
-    - volume: de 1 a 10 iniciando em 5 (somente no construtor);
+    - volume: de 1 a 10 iniciando em 5;
     - marca;
     - voltagem (220 e 110);
     - canal.
